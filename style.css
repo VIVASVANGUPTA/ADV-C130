@@ -1,0 +1,23 @@
+.heading{
+    font-size:20px;
+    width:100%;
+    margin:0;
+    
+}
+#note{
+    color:rgb(0, 0, 0);
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size:cover;
+}
+#song_name{
+    background-color:rgb(0, 255, 0);
+    width:150px;
+    height:30px;
+}
+canvas{
+    border:5px solid black;
+    border-radius:25px;
+    margin-top:25px;
+}
